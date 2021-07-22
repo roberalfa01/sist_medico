@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="assests/css/bootstrap.min.css">
     </head>
     <body>
-         <?=include "menu.php"?>
+         <?php include "menu.php"?>
         
          <h2 class="text-center mt-2 text-info">Selecciona tu cita médica</h2>
          <div class="text-center">
